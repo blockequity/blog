@@ -6,10 +6,12 @@
         <div class="widget widget-info">
           <div class="footer-logo">
             {% if site.logo %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-            {% else %}
-              {{site.title}}
-            {% endif %}
+            <img
+              class="logo__image"
+              src="{{ site.baseurl }}{{ site.logo }}"
+              alt="{{ site.title }}"
+            />
+            {% else %} {{site.title}} {% endif %}
           </div>
           <p class="footer-desc">{{site.hero.description}}</p>
         </div>
@@ -26,16 +28,40 @@
         {% if site.mailchimp %}
         <div class="widget widget-subscribe">
           <div class="widget__head">
-            <h4 class="widget__title">Get Interesting News</h4>
+            <h4 class="widget__title">Get Ethereum News</h4>
           </div>
-          <p class="subscribe-subtitle">Subscribe to our newsletter and we’ll send you the emails of latest posts.</p>
-          <form class="subscribe-form validate" action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+          <p class="subscribe-subtitle">
+            We’ll send you an email of the latest things happening in Ethereum.
+          </p>
+          <form
+            class="subscribe-form validate"
+            action="{% if site.mailchimp-identifier %}//{{site.mailchimp-identifier}}{% else %}#{% endif %}"
+            method="POST"
+            id="membedded-subscribe-form"
+            name="membedded-subscribe-form"
+            target="_blank"
+            novalidate
+          >
             <div class="subscribe-group">
               <div class="subscribe-group-top">
-                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-                <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Email Address">
-                <button class="subscribe-button button button--primary" id="membedded-subscribe" type="submit" name="subscribe">Subscribe</button>
+                <label class="screen-reader-text" for="mce-EMAIL"
+                  >Email address</label
+                >
+                <input
+                  class="subscribe-email required email"
+                  id="mce-EMAIL"
+                  type="text"
+                  name="EMAIL"
+                  placeholder="Email Address"
+                />
+                <button
+                  class="subscribe-button button button--primary"
+                  id="membedded-subscribe"
+                  type="submit"
+                  name="subscribe"
+                >
+                  Subscribe
+                </button>
               </div>
             </div>
           </form>
@@ -52,9 +78,16 @@
   <div class="container">
     <div class="row">
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-      <div class="footer__inner">
-        {% include social-links.html %}
-        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/"><strong>{{site.title}}</strong></a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        <div class="footer__inner">
+          {% include social-links.html %}
+          <div class="copyright">
+            {{site.time | date: '%Y'}} &copy;
+            <a href="/"><strong>{{site.title}}</strong></a
+            >. Crafted & Designed by
+            <a href="https://jekyllthemes.io/developers/artem-sheludko"
+              >Artem Sheludko</a
+            >.
+          </div>
         </div>
       </div>
     </div>

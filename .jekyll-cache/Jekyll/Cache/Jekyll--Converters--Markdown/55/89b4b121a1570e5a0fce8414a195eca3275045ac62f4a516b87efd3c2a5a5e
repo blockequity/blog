@@ -1,0 +1,26 @@
+I"f<!-- @format -->
+
+<p>A SushiSwap Clone</p>
+
+<h3 id="tech-stack">Tech Stack:</h3>
+
+<ol>
+  <li><a href="https://docs.soliditylang.org/en/v0.7.4/">Solidity</a> - Smart Contract Language</li>
+  <li><a href="https://web3js.readthedocs.io/en/v1.2.0/getting-started.html">Web3</a> - Ethereum Blockchain Interface</li>
+  <li><a href="https://ipfs.io/">IPFS</a> - Interplanetary File Storage</li>
+  <li><a href="https://reactjs.org/">ReactJS</a> - Front End UI</li>
+  <li><a href="https://blockequity.com/yieldFarming">Yield Farming</a> - Use DeFi to gain interest on cold assets</li>
+</ol>
+
+<h3 id="ropsten-contract">Ropsten Contract</h3>
+
+<p><code>0xBe1D71ce2b733B70d8A12811D33440e10F5a76D7</code></p>
+
+<p>Building a dropbox clone on decentralized technologies Ethereum, IPFS, Web3, &amp; ReactJS.</p>
+
+<h3 id="i-care-so-what-do-you-think-of-her-han">I care. So, what do you think of her, Han?</h3>
+
+<p><button class="button button--primary" type="submit">Try DEMO</button></p>
+
+<p><a href="https://unsplash.com/@austindistel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Img Src: Austin Distel</a></p>
+:ET

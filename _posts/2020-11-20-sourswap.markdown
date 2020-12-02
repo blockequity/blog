@@ -1,16 +1,16 @@
 ---
 layout: post
-title: DecentraBox
+title: SourSwap
 date: 2020-11-18 08:01:42 +0300
-image: "/images/decentrabox.jpg"
-permalink: /decentrabox/
+image: "/images/sourswap.png"
+permalink: /sourswap/
 tags: Projects
 featured: true
 ---
 
 <!-- @format -->
 
-Store your files in a permanent cloud database forever.
+A SushiSwap Clone
 
 ### Tech Stack:
 
@@ -18,17 +18,16 @@ Store your files in a permanent cloud database forever.
 2. [Web3](https://web3js.readthedocs.io/en/v1.2.0/getting-started.html) - Ethereum Blockchain Interface
 3. [IPFS](https://ipfs.io/) - Interplanetary File Storage
 4. [ReactJS](https://reactjs.org/) - Front End UI
+5. [Yield Farming](https://blockequity.com/yieldFarming) - Use DeFi to gain interest on cold assets
 
 ### Ropsten Contract
 
-`0xBe1D71ce2b733B70d8A12811D33440e10F5a76D7`
+<code>0xBe1D71ce2b733B70d8A12811D33440e10F5a76D7</code>
 
 Building a dropbox clone on decentralized technologies Ethereum, IPFS, Web3, & ReactJS.
 
 ### I care. So, what do you think of her, Han?
 
-<button class="button button--primary" type="submit" ahref="https://decentrabox.blockequity.com/">Try DEMO</button>
-
-[View Demo](https://blockequity.github.io/decentrabox/)
+<button class="button button--primary" type="submit">Try DEMO</button>
 
 [Img Src: Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
