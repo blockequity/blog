@@ -3,6 +3,7 @@
 # General Site Settings
 title: BlockEquity
 logo: /images/logo.png # You can add own logo. For example '/images/logo.png'.
+tagline: Ethereum Dev Shop & Dapp Marketing Agency
 description: Blockchain education, tutorials, and breakdowns of the next frontier of the internet - Web3 and the Ethereum super computer.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.blockequity.com" # The base hostname & protocol for your site, e.g. http://example.com
@@ -10,21 +11,21 @@ url: "https://www.blockequity.com" # The base hostname & protocol for your site,
 #-------------------------------
 # Author Settings
 author:
-  name: Lloyd Faulk
+  name: DigitalHustla
   avatar: "/images/lloyd.jpg"
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: We 💙 Ethereum
+  title: An Ethereum Studio
   description: Solidity Development, Dapp Marketing, & Consultancy
-  image: "/images/01.jpg"
+  image: "/images/cover.jpg"
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: team@blockequity.com # Add your email for contact form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
+  email: blockequity@gmail.com # Add your email for contact form
+  description: Hey! We're glad you stopped by, if you need to get in touch with us for any reason, just fill out the form below and we'll be in contact within 24 hours. # Add a description of your form
 
 # NOTE
 # Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -39,16 +40,16 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: blockequity # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-102561401-1 # Add your identifier. For example UA-99631805-1.
+google-analytics: G-J5EC90YLYH # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp-identifier: blockequity.us7.list-manage.com/subscribe/post?u=a89c1803c6cd4103e90b4340c&amp;id=d2bcba6e8a # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 #-------------------------------
 # Build settings
@@ -58,6 +59,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-seo-tag
 
 paginate: 9
 paginate_path: "/page/:num"
@@ -80,3 +82,8 @@ tag_permalink_style: pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+# Twitter Schema
+twitter:
+  username: blockequitydao
+  card: summary

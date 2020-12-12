@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-image: "/images/45.jpg"
+image: "/images/contact.png"
 ---
 
 <div class="form-container">

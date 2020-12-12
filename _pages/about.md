@@ -2,31 +2,28 @@
 layout: page
 title: About
 permalink: /about/
-image: "/images/60.jpg"
+image: "/images/about.png"
+seo:
+  - name: "About BlockEquity The Ethereum Studio"
+  - type: Organization
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+# Our Mission
 
-![Time to think]({{site.baseurl}}/images/31.jpg)
-_Time to think_
+We learned early on that Ethereum offered a once in a lifetime opportunity to create a new infrastructure that would usher in an innovative way in which all of humanity conducted commerce, communication, and connectivity in a decentralized manner. We aim to be at the forefront of this revolution by combining years of programming and digital marketing experience to bring innovation and disruption to any industry ripe for the taking.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+# Our Story
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/29.jpg">
-    <img src="/images/30.jpg">
-    <img src="/images/31.jpg">
-  </div>
-</div>
+Founded by a 17 year digital marketing veteran with the programming chops to code his way out of box, read the Ethereum whitepaper, participated in the ICO and has been following everything Ethereum since. Coupled with the speed, and permissionless ability to program Solidity contracts that can replace entire companies is a powerful concept. We feel alot like early pioneers forging the railroads upon which great economies and new communities will be formed. We are just getting started on this new journey and can’t wait to see what the future holds.
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+# Our Methodology
 
-<p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
+With great power comes great responsibility, we fundamentally understand the opportunity in front of us, and that comes with being conscious of the products we create and how it will affect humanity as a whole. Ethereum contracts are unstoppable and can cause havoc if not properly written, tested, and audited before going mainnet, unfortunately like [TheDAO](<https://en.wikipedia.org/wiki/The_DAO_(organization)>) project. Giving control back to the user is a new concept, but a burgeoning one in which individuals are recognizing their collective power, in being in control of their data, assets, and voice. As all things our ideology will change as we and the industry matures, so check back in the future as this will most likely be updated.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
+# Our Target Market
 
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+We offer marketing to dapp developers, Solidity smart contract development for small to medium sized businesses looking to rebuild ineffeciencies in their business model. Whether improving visiblity into your supply chain vendors, or paying employees by the minute Solidty smart contracts and the Ethereum network can transform your business for the future. The companies that thrive are the ones constantly trying to disrupt themselves.
 
-<a href='https://www.freepik.com/vectors/background'>Background vector created by fullvector - www.freepik.com</a>
+# Our Service Offering
+
+We focus on offering Solidity contract development, digital marketing for decentralized applications, and consulting businesses with less than 100 employees looking to consult about reinventing their business models with blockchain technology. [Reach out to us](/contact) if you would like to discuss your business needs.
