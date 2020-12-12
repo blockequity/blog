@@ -44,7 +44,10 @@ disqus-identifier: blockequity # Add your shortname for Disqus Comment. For exam
 
 #-------------------------------
 # Google Analytics
-google-analytics: GTM-T654QLL # Add your identifier. For example UA-99631805-1.
+# google-analytics: GTM-T654QLL # Add your identifier. For example UA-99631805-1.
+google:
+  tag_manager:
+    container_id: GTM-T654QLL
 
 #-------------------------------
 # Newsletter

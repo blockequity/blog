@@ -3,8 +3,8 @@
   {% include head.html %}
 
   <body>
-    {% if site.google-analytics %} {% include google-analytics.html %} {% endif
-    %} {% include header.html %}
+    {% gtm body %} {% if site.google-analytics %} {% include
+    google-analytics.html %} {% endif %} {% include header.html %}
 
     <!-- begin content -->
     <main class="content" aria-label="Content">{{ content }}</main>
@@ -12,15 +12,5 @@
 
     <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
     {% include footer.html %} {% include javascripts.html %}
-    <!-- Google Tag Manager (noscript) -->
-    <noscript
-      ><iframe
-        src="https://www.googletagmanager.com/ns.html?id={{ site.google-analytics }}"
-        height="0"
-        width="0"
-        style="display: none; visibility: hidden"
-      ></iframe
-    ></noscript>
-    <!-- End Google Tag Manager (noscript) -->
   </body>
 </html>
