@@ -12,7 +12,7 @@ url: "https://www.blockequity.com" # The base hostname & protocol for your site,
 # Author Settings
 author:
   name: DigitalHustla
-  avatar: "/images/lloyd.jpg"
+  avatar: "/images/dh.jpg"
 
 #-------------------------------
 # Hero Settings
@@ -35,7 +35,7 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-  - { icon: "ion-logo-twitter", link: "https://twitter.com/blockequitydao" }
+  - { icon: "ion-logo-twitter", link: "https://twitter.com/block_equity" }
   - { icon: "ion ion-logo-github", link: "https://github.com/blockequity" }
 
 #-------------------------------
@@ -44,7 +44,7 @@ disqus-identifier: blockequity # Add your shortname for Disqus Comment. For exam
 
 #-------------------------------
 # Google Analytics
-google-analytics: G-J5EC90YLYH # Add your identifier. For example UA-99631805-1.
+google-analytics: GTM-T654QLL # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
@@ -85,5 +85,5 @@ sass:
 
 # Twitter Schema
 twitter:
-  username: blockequitydao
+  username: block_equity
   card: summary
