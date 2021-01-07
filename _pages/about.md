@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: "/images/about.png"
+image: "/images/about.jpg"
 seo:
   - name: "About BlockEquity The Ethereum Studio"
   - type: Organization

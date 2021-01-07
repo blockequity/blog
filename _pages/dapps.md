@@ -2,22 +2,22 @@
 layout: page
 title: Dapps
 permalink: /dapps/
-image: "/images/12.jpg"
+image: "/images/dapps.jpg"
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman.
+Here are some of the projects we've developed on the Ethereum testnets, feel free to play around with the demos below, you'll need some testnet (Rinkeby, Kovan, Ropsten, etc.) ETH, a Web3 enabled wallet (MetaMask), and browser to use the dapps listed below.
 
 ---
 
 # SourSwap
 
-Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi.
+SushiSwap rocked the DeFi space like no other, introducing a novel technique called a "vampire attack" siphoning off portions of Uniswap liquidity to bootstrap their own fledgling ecosystem.
 
-<button class="button button--secondary" type="submit" ahref="https://decentrabox.blockequity.com/">Try DEMO</button>
+[Try The Demo](https://sourswap.com)
 
 ![]({{site.baseurl}}/images/sourswap.png)
 
-#### Rinkeby Network
+#### Rinkeby Contract
 
 {% highlight markdown %}
 
@@ -29,10 +29,9 @@ Godard seitan shoreditch flexitarian next level trust fund man braid vegan listi
 
 # DecentraBox
 
-Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi.
+Tired of paying for centralized storage solutions? By combining the Ethereum smart contract network, the Interplanetary File System (IPFS) for low cost storage we are able to greatly reduce the cost of storing your data files. Oh but remember it is permanent, once you've uploaded it.
 
 [Try The Demo](https://blockequity.github.io/decentrabox/)
-<button class="button button--secondary" type="submit" ahref="https://decentrabox.blockequity.com/">Try DEMO</button>
 
 ![]({{site.baseurl}}/images/decentrabox.jpg)
 
