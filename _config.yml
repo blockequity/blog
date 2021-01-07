@@ -1,24 +1,24 @@
 ---
 #-------------------------------
 # General Site Settings
-title: BlockEquity
+title: Ethereum Venture Studio | BlockEquity
 logo: /images/logo.png # You can add own logo. For example '/images/logo.png'.
 tagline: Ethereum Dev Shop & Dapp Marketing Agency
-description: Blockchain education, tutorials, and breakdowns of the next frontier of the internet - Web3 and the Ethereum super computer.
+description: Ethereum education, tutorials, and breakdowns of the next frontier of the internet - Web3 and the Ethereum super computer.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.blockequity.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: DigitalHustla
-  avatar: "/images/dh.jpg"
+  name: digital3000
+  avatar: "/images/3k.jpg"
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: An Ethereum Studio
-  description: Solidity Development, Dapp Marketing, & Consultancy
+  title: Ethereum All Day
+  description: News, Tutorials, Marketing, & Teardowns
   image: "/images/cover.jpg"
 
 #-------------------------------

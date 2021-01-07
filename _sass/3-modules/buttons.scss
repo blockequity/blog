@@ -28,6 +28,17 @@
       background-color: darken($brand-color, 5%);
     }
   }
+  &--success {
+    padding: 0px 1.8rem;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 50px;
+    background-color: $secondary-color;
+    &:hover {
+      background-color: darken($secondary-color, 5%);
+    }
+  }
 
   &--middle {
     position: relative;
@@ -40,7 +51,7 @@
     font-weight: 600;
     letter-spacing: 1px;
     text-transform: uppercase;
-    transition: all .2s ease;
+    transition: all 0.2s ease;
     background-color: $dark;
 
     &:hover {

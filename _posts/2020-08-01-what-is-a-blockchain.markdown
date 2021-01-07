@@ -3,8 +3,9 @@ layout: post
 title: What is Ethereum?
 date: 2020-08-01 18:05:55 +0600
 image: "/images/ethereum.jpg"
-permalink: /blockchain/
+permalink: /ethereum/
 tags: Beginner
+featured: false
 ---
 
 In their most abstract form, blockchains are a new way of organizing economic, social, and political activity. Blockchains are an institutional technology - more similar to markets, corporations, and nation-states, than just mere computing platforms.
@@ -69,7 +70,7 @@ If you absolutely can’t or don’t want to purchase online, you can buy offlin
 
 ### What Can You Do With That New ETH
 
-Blockchain platforms open up an infinite possibility in all facets of society, however, there are a few verticals that are well suited for blockchain networks.
+Blockchain platforms open up an infinite possibility in all facets of society, such as [decentralizing]({{site.baseurl}}/dapps/decentrabox) existing web2.0 internet services, permissionless gaming, the tokenization of every single asset on the face of the planet. However, there are a few verticals that are well suited for blockchain networks.
 
 #### Blockchain Games
 
@@ -81,10 +82,10 @@ Due to the ease in which it is to copy any digital assets they need to prove own
 
 #### DeFi
 
-Decentralized Finance is taking the crypto world by storm, traditional financial services are being unbundled and streamlined to enable access to services historically out of reach for the 3.5 billion unbanked people across the globe. Loaning yourself capital against your digital tokens is only the beginning of what the world of DeFi has to offer the citizens of the world.
+Decentralized Finance is taking the crypto world by storm, traditional financial services are being unbundled and streamlined to enable access to services historically out of reach for the 3.5 billion unbanked people across the globe. Loaning yourself capital against your digital tokens is only the beginning of what the world of [DeFi]({{site.baseurl}}/dapps/sourswap) has to offer the citizens of the world.
 
 ## Conclusion
 
 The Ethereum network launched in July 2015 and with it brought forth a new paradigm of computing but also the way strangers will conduct commerce, communication, and collaborative efforts for decades to come. Giving people back the power to control their data, finances, and accomplish goals that further mobilize them towards a life of opportunity and progress.
 
-Image Src: [Ethereum Foundation](https://ethereum.org)
+[Img Src](https://ethereum.org)
